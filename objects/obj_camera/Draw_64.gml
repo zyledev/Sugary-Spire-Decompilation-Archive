@@ -54,23 +54,3 @@ if (global.debugmode)
 	var roomname = string_upper(room_get_name(room));
 	draw_text(150, 0, roomname);
 }
-
-
-if os_get_config() = "Debug" {
-    draw_set_font(font_dev);
-    draw_set_halign(fa_left)
-    draw_set_color(c_white);
-    draw_text(260, 450, angle);
-    draw_text(325, 450, angledir);
-    draw_text(100, 400, obj_player.x);
-    draw_text(100, 450, obj_player.y);
-    
-    draw_text(50, 270, "STATE: " + string_upper(string(obj_player.state)))
-    var roomname = string_upper(room_get_name(room));
-    draw_text(150, 0, roomname);
-    draw_text(50, 310, "TARGETROOM: " + string_upper(string(obj_player.targetRoom)))
-	if instance_exists(obj_cottoncreator) {
-		draw_text(10, 100, "cottonalpha: " + string(obj_cottoncreator.image_alpha))
-		draw_text(10, 120, "cottondepth: " + string(obj_cottoncreator.depth))
-	}
-}
