@@ -1,4 +1,4 @@
 # Sugary Spire Decompilation Archive
  
 
-The Repo will be updated with source code accurate decompilations of Sugary Spire builds.
+The Repo will be updated with decompilations of Sugary Spire builds.
