@@ -1,4 +1,4 @@
-shader_set(0);
+shader_set(shd_afterimage);
 var colorblend1 = shader_get_uniform(0, "blendcolor1");
 shader_set_uniform_f(colorblend1, realcol.r / 255, realcol.g / 255, realcol.b / 255);
 var colorblend2 = shader_get_uniform(0, "blendcolor2");

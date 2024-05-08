@@ -6,7 +6,7 @@ if (surface_exists(RealSurface))
 	{
 		if (global.panic && global.panicbg)
 		{
-			shader_set(3);
+			shader_set(shd_panicbg);
 			var panic_id = shader_get_uniform(3, "panic");
 			shader_set_uniform_f(panic_id, global.wave / global.maxwave);
 			var time_id = shader_get_uniform(3, "time");
