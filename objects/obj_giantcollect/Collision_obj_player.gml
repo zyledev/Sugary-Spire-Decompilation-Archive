@@ -1,4 +1,4 @@
-if (global.collectsound == sfx_cottondoublejump)
+if (global.collectsound == 10)
 {
 	scr_sound(sound_points);
 	scr_sound(sound_pizzacoin);
