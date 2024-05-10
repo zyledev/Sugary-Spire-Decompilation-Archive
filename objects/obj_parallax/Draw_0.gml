@@ -7,9 +7,9 @@ if (surface_exists(RealSurface))
 		if (global.panic && global.panicbg)
 		{
 			shader_set(shd_panicbg);
-			var panic_id = shader_get_uniform(3, "panic");
+			var panic_id = shader_get_uniform(shd_panicbg, "panic");
 			shader_set_uniform_f(panic_id, global.wave / global.maxwave);
-			var time_id = shader_get_uniform(3, "time");
+			var time_id = shader_get_uniform(shd_panicbg, "time");
 			shader_set_uniform_f(time_id, current_time / 1000);
 			draw_surface_ext(global.parallaxbg_surface, -64, -64, 1, 1, 0, c_white, 1);
 			shader_reset();
