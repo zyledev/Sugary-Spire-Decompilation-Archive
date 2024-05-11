@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9ab4ad9f-b6eb-459b-8985-a5bd3ecce3f0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b72a4f2a-7bae-43fb-bce8-8ba7794eac78",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 160,
+  "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"261aa6e6-ba9f-479a-bc75-f2b0089a2539","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"83d8de64-53eb-4290-a323-e4fd72045b0a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9ab4ad9f-b6eb-459b-8985-a5bd3ecce3f0","path":"sprites/tile_cottonminigame_sprite/tile_cottonminigame_sprite.yy",},},},"Disabled":false,"id":"a6882040-c5b3-4f6a-9c9f-3f1f501d1688","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b72a4f2a-7bae-43fb-bce8-8ba7794eac78","path":"sprites/tile_cottonminigame_sprite/tile_cottonminigame_sprite.yy",},},},"Disabled":false,"id":"4891aa9b-899f-4cc3-b3f2-423ed4b17660","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 160,
+  "width": 128,
 }

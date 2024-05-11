@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5094f5a8-0295-4545-b9e0-121cb4af5f2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3485e19e-1558-4caa-868c-1bafccfc0151",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 216,
+  "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fe6cf28e-aa89-4860-a54b-c33e881c7c00","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3a3b2124-e914-4f9e-8080-7c366d6c6cf2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5094f5a8-0295-4545-b9e0-121cb4af5f2c","path":"sprites/ts_minecartrails_sprite/ts_minecartrails_sprite.yy",},},},"Disabled":false,"id":"68b4c8b3-5050-4356-abfe-eda9664bf2cc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3485e19e-1558-4caa-868c-1bafccfc0151","path":"sprites/ts_minecartrails_sprite/ts_minecartrails_sprite.yy",},},},"Disabled":false,"id":"bffa02a4-1429-493d-bd7d-95ec95040058","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 216,
+  "width": 288,
 }
