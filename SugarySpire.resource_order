@@ -826,6 +826,7 @@
     {"name":"mu_minessecret","order":6,"path":"sounds/mu_minessecret/mu_minessecret.yy",},
     {"name":"sound_fireass","order":41,"path":"sounds/sound_fireass/sound_fireass.yy",},
     {"name":"mu_tutorial","order":21,"path":"sounds/mu_tutorial/mu_tutorial.yy",},
+    {"name":"README","order":64,"path":"notes/README/README.yy",},
     {"name":"sfx_ruthless","order":14,"path":"sounds/sfx_ruthless/sfx_ruthless.yy",},
     {"name":"sfx_bad","order":1,"path":"sounds/sfx_bad/sfx_bad.yy",},
     {"name":"sfx_what_the_fuck","order":18,"path":"sounds/sfx_what_the_fuck/sfx_what_the_fuck.yy",},

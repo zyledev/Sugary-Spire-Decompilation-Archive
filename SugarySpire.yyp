@@ -942,6 +942,7 @@
     {"id":{"name":"mu_minessecret","path":"sounds/mu_minessecret/mu_minessecret.yy",},},
     {"id":{"name":"sound_fireass","path":"sounds/sound_fireass/sound_fireass.yy",},},
     {"id":{"name":"mu_tutorial","path":"sounds/mu_tutorial/mu_tutorial.yy",},},
+    {"id":{"name":"README","path":"notes/README/README.yy",},},
     {"id":{"name":"sfx_ruthless","path":"sounds/sfx_ruthless/sfx_ruthless.yy",},},
     {"id":{"name":"sfx_bad","path":"sounds/sfx_bad/sfx_bad.yy",},},
     {"id":{"name":"sfx_what_the_fuck","path":"sounds/sfx_what_the_fuck/sfx_what_the_fuck.yy",},},
