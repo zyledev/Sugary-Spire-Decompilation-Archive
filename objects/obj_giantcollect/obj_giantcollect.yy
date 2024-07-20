@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Points",
+    "path": "folders/Objects/Gameplay/Collectables/Points.yy",
   },
   "parentObjectId": null,
   "persistent": false,

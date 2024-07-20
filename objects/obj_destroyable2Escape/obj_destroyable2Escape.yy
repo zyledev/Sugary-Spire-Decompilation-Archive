@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Escape",
+    "path": "folders/Objects/Gameplay/Destructibles/Escape.yy",
   },
   "parentObjectId": {
     "name": "obj_destroyable2",

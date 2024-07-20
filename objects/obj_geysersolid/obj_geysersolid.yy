@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Geyser",
+    "path": "folders/Objects/Gameplay/Level Specific/Molasses/Geyser.yy",
   },
   "parentObjectId": {
     "name": "obj_solid",

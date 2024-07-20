@@ -13,8 +13,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Explosions",
+    "path": "folders/Objects/Gameplay/Explosions.yy",
   },
   "parentObjectId": null,
   "persistent": false,

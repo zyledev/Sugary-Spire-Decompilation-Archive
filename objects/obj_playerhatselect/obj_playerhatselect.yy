@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Palette Room",
+    "path": "folders/Objects/Room Specific/Palette Room.yy",
   },
   "parentObjectId": null,
   "persistent": false,

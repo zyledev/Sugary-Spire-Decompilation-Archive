@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "UI Related",
+    "path": "folders/Objects/Gameplay/Collectables/UI Related.yy",
   },
   "parentObjectId": null,
   "persistent": false,

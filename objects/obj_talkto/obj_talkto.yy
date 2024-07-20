@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Debug Room",
+    "path": "folders/Objects/Room Specific/Debug Room.yy",
   },
   "parentObjectId": null,
   "persistent": false,

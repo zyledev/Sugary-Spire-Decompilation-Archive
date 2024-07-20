@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Player Movement",
+    "path": "folders/Objects/Effects/Player Movement.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Molasses",
+    "path": "folders/Objects/Gameplay/Level Specific/Molasses.yy",
   },
   "parentObjectId": null,
   "persistent": false,

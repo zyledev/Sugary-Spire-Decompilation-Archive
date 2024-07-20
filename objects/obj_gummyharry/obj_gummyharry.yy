@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Gummy Harry",
+    "path": "folders/Objects/Gameplay/Gummy Harry.yy",
   },
   "parentObjectId": {
     "name": "obj_destructibles",

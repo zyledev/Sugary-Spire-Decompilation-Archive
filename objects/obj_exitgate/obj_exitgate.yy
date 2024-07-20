@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Rank Screen",
+    "path": "folders/Objects/Gameplay/Rank Screen.yy",
   },
   "parentObjectId": null,
   "persistent": false,

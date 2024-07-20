@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_blank",
-  "creationCodeFile": null,
+  "creationCodeFile": "rooms/rm_blank/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
@@ -10,8 +10,8 @@
   "isDnd": false,
   "layers": [],
   "parent": {
-    "name": "misc.",
-    "path": "folders/Rooms/misc..yy",
+    "name": "Rooms",
+    "path": "folders/Rooms.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
@@ -22,10 +22,10 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "roomSettings": {
-    "Height": 540,
+    "Height": 768,
     "inheritRoomSettings": false,
     "persistent": false,
-    "Width": 960,
+    "Width": 1024,
   },
   "sequenceId": null,
   "views": [
@@ -39,7 +39,7 @@
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1024,"wview":1024,"xport":0,"xview":0,"yport":0,"yview":0,},
   ],
   "viewSettings": {
-    "clearDisplayBuffer": false,
+    "clearDisplayBuffer": true,
     "clearViewBackground": false,
     "enableViews": false,
     "inheritViewSettings": false,

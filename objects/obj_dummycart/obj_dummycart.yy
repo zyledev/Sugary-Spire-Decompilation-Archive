@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Minecart",
+    "path": "folders/Objects/Gameplay/Level Specific/Mines/Minecart.yy",
   },
   "parentObjectId": null,
   "persistent": false,

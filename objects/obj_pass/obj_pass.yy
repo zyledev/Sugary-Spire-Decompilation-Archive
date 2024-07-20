@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Playtester Password Room",
+    "path": "folders/Objects/Room Specific/Playtester Password Room.yy",
   },
   "parentObjectId": null,
   "persistent": false,

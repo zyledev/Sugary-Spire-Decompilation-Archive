@@ -14,8 +14,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Applejim",
+    "path": "folders/Objects/Unused/Gameplay/Baddies/Applejim.yy",
   },
   "parentObjectId": {
     "name": "obj_baddie",

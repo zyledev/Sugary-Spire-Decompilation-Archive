@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Cardboard",
+    "path": "folders/Objects/Gameplay/Gummy Harry/Cardboard.yy",
   },
   "parentObjectId": null,
   "persistent": false,

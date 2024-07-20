@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Baddie Effects",
+    "path": "folders/Objects/Baddies/Baddie Effects.yy",
   },
   "parentObjectId": null,
   "persistent": false,

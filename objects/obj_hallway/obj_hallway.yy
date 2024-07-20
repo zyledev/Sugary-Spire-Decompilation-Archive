@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Hallways",
+    "path": "folders/Objects/Gameplay/Room Transitions/Hallways.yy",
   },
   "parentObjectId": null,
   "persistent": false,

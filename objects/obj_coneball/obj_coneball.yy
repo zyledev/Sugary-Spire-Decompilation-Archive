@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Coneball",
+    "path": "folders/Objects/Gameplay/Coneball.yy",
   },
   "parentObjectId": null,
   "persistent": true,

@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Baddie Attacks",
+    "path": "folders/Objects/Baddies/Baddie Attacks.yy",
   },
   "parentObjectId": {
     "name": "obj_hurtbox",

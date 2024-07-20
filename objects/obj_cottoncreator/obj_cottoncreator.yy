@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Transformation Givers",
+    "path": "folders/Objects/Gameplay/Transformation Givers.yy",
   },
   "parentObjectId": null,
   "persistent": false,

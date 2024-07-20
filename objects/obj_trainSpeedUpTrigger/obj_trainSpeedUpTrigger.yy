@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Train",
+    "path": "folders/Objects/Gameplay/Level Specific/Mines/Train.yy",
   },
   "parentObjectId": null,
   "persistent": false,

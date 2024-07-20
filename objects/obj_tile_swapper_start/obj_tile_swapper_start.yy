@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Pal Swapper",
+    "path": "folders/Objects/Technical Stuff/Pal Swapper.yy",
   },
   "parentObjectId": null,
   "persistent": false,

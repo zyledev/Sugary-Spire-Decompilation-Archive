@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Gameplay",
+    "path": "folders/Objects/Unused/Gameplay.yy",
   },
   "parentObjectId": null,
   "persistent": false,

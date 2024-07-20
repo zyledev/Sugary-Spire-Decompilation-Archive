@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Cardboard",
+    "path": "folders/Objects/Gameplay/Escape/Cardboard.yy",
   },
   "parentObjectId": {
     "name": "obj_solid",

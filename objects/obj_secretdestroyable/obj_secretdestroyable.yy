@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Secret",
+    "path": "folders/Objects/Gameplay/Destructibles/Secret.yy",
   },
   "parentObjectId": {
     "name": "obj_destructibles",

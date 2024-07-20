@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Runtime",
+    "path": "folders/Extensions/GMLive/Internal/Runtime.yy",
   },
 }

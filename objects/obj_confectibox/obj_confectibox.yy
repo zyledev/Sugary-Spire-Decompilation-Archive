@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Confecti",
+    "path": "folders/Objects/Gameplay/Collectables/Confecti.yy",
   },
   "parentObjectId": null,
   "persistent": false,

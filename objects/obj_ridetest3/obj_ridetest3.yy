@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "The obj_ridetest Trilogy",
+    "path": "folders/Objects/Unused/The obj_ridetest Trilogy.yy",
   },
   "parentObjectId": null,
   "persistent": false,

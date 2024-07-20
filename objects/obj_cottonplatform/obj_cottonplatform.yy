@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Cottontown",
+    "path": "folders/Objects/Gameplay/Level Specific/Cottontown.yy",
   },
   "parentObjectId": {
     "name": "obj_platform",

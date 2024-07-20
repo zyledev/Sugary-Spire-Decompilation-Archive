@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Room Transitions",
+    "path": "folders/Objects/Gameplay/Room Transitions.yy",
   },
   "parentObjectId": null,
   "persistent": false,

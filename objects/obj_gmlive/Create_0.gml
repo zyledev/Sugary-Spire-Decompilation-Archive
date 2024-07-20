@@ -10,7 +10,7 @@ if (instance_number(obj_gmlive) > 1) {
 if !debug
 	instance_destroy();
 global.live_blank_room = rm_blank
-global.live_blank_object = obj_gmliveblank
+global.live_blank_object = obj_blank
 if (asset_get_index("live_init") == -1) show_error("live_init is missing!\nEither GMLive is not imported in the project, or the 'GMLive' script got corrupted (try re-importing)\nIf you don't have GMLive, you can safely remove obj_gmlive and any remaining live_* function calls.\n\n", 1);
 
 // change the IP/port here if gmlive-server isn't running on the same device as the game

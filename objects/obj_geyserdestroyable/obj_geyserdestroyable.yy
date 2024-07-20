@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Geyser Destroyable",
+    "path": "folders/Objects/Gameplay/Level Specific/Molasses/Geyser/Geyser Destroyable.yy",
   },
   "parentObjectId": {
     "name": "obj_solid",

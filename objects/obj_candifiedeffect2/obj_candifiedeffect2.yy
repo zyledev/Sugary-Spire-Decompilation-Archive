@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Flingfrog",
+    "path": "folders/Objects/Effects/Flingfrog.yy",
   },
   "parentObjectId": null,
   "persistent": false,

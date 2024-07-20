@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Cottontown",
+    "path": "folders/Objects/Level Specific/Cottontown.yy",
   },
   "parentObjectId": null,
   "persistent": false,
