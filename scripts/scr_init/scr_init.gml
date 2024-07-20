@@ -1,12 +1,8 @@
 #macro IS_DEBUG (os_get_config() == "Debug")
-#macro obj_blank obj_gmliveblank
-#macro rm_blank room_gmliveblank
 global.__rousr_dissonance = undefined;
 
 global.PAUSEfadeoff = 0;
 global.minesProgress = false;
-global.GMLIVE_roomstart = false;
-global.GMLIVE_realroom = -4;
 global.cutsceneManager = -4;
 global.combomode = false;
 global.font = font_add_sprite_ext(spr_font, "ABCDEFGHIJKLMNOPQRSTUVWXYZ!.0123456789:", 1, 0);

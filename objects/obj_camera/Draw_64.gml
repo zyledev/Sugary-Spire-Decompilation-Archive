@@ -58,7 +58,7 @@ if (global.debugmode)
 	draw_text(325, 450, angledir);
 	draw_text(100, 400, obj_player.x);
 	draw_text(100, 450, obj_player.y);
-	var roomname = string_upper(room_get_name(global.GMLIVE_realroom));
+	var roomname = string_upper(room_get_name(room));
 	draw_text(150, 0, roomname);
 }
 if (global.debugmode)

@@ -5,8 +5,7 @@ if (fadealpha > 1)
 	{
 		if (room_exists(obj_player.targetRoom))
 		{
-			global.GMLIVE_roomstart = true;
-			room_goto_live(obj_player.targetRoom);
+			room_goto(obj_player.targetRoom);
 		}
 		else
 			room_goto(rm_missing);
