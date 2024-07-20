@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Unused",
-    "path": "folders/Sprites/Unused.yy",
+    "name": "Player Sprites",
+    "path": "folders/Sprites/Unused But Referenced/Player Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

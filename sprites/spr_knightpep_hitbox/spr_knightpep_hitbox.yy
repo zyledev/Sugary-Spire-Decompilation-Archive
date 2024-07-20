@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Unused",
-    "path": "folders/Sprites/Unused.yy",
+    "name": "Hitboxes",
+    "path": "folders/Sprites/Player/Hitboxes.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

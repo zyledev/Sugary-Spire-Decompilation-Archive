@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Point Numbers",
-    "path": "folders/Sprites/Unused/Object-Specific/Point Numbers.yy",
+    "name": "Misc.",
+    "path": "folders/Sprites/Misc..yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

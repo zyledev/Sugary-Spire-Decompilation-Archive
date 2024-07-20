@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Pizzelle",
-    "path": "folders/Sprites/Player/Pizzelle.yy",
+    "name": "Hitboxes",
+    "path": "folders/Sprites/Player/Hitboxes.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
