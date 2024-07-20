@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Rich Presence",
+    "path": "folders/Scripts/Rich Presence.yy",
   },
 }

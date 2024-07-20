@@ -1,4 +1,7 @@
 #macro IS_DEBUG (os_get_config() == "Debug")
+#macro obj_blank obj_gmliveblank
+#macro rm_blank room_gmliveblank
+global.__rousr_dissonance = undefined;
 
 global.PAUSEfadeoff = 0;
 global.minesProgress = false;

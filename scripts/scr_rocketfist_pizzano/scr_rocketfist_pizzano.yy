@@ -5,7 +5,7 @@
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "Pizzano",
+    "path": "folders/Scripts/State Scripts/Pizzano.yy",
   },
 }

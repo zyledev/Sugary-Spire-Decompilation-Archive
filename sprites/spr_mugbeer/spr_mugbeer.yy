@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Talisman",
-    "path": "folders/Talisman.yy",
+    "name": "Unused",
+    "path": "folders/Scripts/Unused.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

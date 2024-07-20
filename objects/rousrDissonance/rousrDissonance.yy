@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Rich Prescense",
-    "path": "folders/Objects/Technical Stuff/Rich Prescense.yy",
+    "name": "Rich Presence",
+    "path": "folders/Objects/Technical Stuff/Rich Presence.yy",
   },
   "parentObjectId": null,
   "persistent": true,

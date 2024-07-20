@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Talisman",
-    "path": "folders/Talisman.yy",
+    "name": "Unused",
+    "path": "folders/Objects/Unused.yy",
   },
   "parentObjectId": null,
   "persistent": false,
