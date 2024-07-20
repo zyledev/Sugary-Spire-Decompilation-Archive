@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Bomb",
-    "path": "folders/Objects/Unused/Gameplay/Level Specific/Molasses/Bomb.yy",
+    "name": "Unused",
+    "path": "folders/Objects/Unused.yy",
   },
   "parentObjectId": null,
   "persistent": false,

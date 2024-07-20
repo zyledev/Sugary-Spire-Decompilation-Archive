@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Bomb",
-    "path": "folders/Objects/Unused/Gameplay/Level Specific/Molasses/Bomb.yy",
+    "name": "Unused But Referenced",
+    "path": "folders/Objects/Unused But Referenced.yy",
   },
   "parentObjectId": null,
   "persistent": false,

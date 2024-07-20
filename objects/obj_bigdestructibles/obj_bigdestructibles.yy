@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Unused",
-    "path": "folders/Objects/Unused.yy",
+    "name": "Destructibles",
+    "path": "folders/Objects/Gameplay/Destructibles.yy",
   },
   "parentObjectId": {
     "name": "obj_destructibles",
