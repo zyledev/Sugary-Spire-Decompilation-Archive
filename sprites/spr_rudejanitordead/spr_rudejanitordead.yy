@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Rude Janitor",
+    "path": "folders/Sprites/Unused But Referenced/Baddies/Rude Janitor.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

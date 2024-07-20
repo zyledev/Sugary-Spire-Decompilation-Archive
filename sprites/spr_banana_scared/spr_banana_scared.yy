@@ -29,8 +29,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Banana Knight",
+    "path": "folders/Sprites/Baddies/Banana Knight.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

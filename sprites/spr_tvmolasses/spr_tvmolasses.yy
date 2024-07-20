@@ -32,8 +32,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "TV Thingamajigs",
+    "path": "folders/Sprites/Unused/TV Thingamajigs.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

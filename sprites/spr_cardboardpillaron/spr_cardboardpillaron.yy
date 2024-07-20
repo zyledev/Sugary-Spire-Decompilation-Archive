@@ -50,8 +50,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cardboard",
+    "path": "folders/Sprites/Gameplay/Level Specific/Tutorial/Cardboard.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Big",
+    "path": "folders/Sprites/Gameplay/Destructibles/Big.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

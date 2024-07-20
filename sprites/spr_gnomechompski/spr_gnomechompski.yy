@@ -44,8 +44,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Gnome",
+    "path": "folders/Sprites/Gameplay/Level Specific/Mines/Gnome.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

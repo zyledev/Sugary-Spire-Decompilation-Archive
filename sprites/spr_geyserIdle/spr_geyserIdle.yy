@@ -51,8 +51,8 @@
   },
   "origin": 3,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Geyser",
+    "path": "folders/Sprites/Gameplay/Level Specific/Molasses/Geyser.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

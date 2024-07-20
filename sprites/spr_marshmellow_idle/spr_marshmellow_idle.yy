@@ -36,8 +36,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Mellow",
+    "path": "folders/Sprites/Gameplay/Collectables/Confecti/Mellow.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

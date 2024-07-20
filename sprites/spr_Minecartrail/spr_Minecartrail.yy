@@ -66,8 +66,8 @@
   },
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Mines",
+    "path": "folders/Sprites/Gameplay/Level Specific/Mines.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Puddle",
+    "path": "folders/Sprites/Gameplay/Obstacles/Puddle.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

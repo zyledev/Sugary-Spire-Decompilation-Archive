@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Particles",
+    "path": "folders/Sprites/Gameplay/Destructibles/Particles.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

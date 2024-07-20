@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Grabbie Hand",
+    "path": "folders/Sprites/Unused/Gameplay/Grabbie Hand.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

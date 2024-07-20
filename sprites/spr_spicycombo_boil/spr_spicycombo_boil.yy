@@ -26,8 +26,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Combo Ranks",
+    "path": "folders/Sprites/UI Related/TV/Combo Ranks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

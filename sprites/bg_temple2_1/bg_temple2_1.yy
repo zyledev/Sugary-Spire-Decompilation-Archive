@@ -34,8 +34,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Backgrounds",
+    "path": "folders/Sprites/Level Specific/Molasses/Backgrounds.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

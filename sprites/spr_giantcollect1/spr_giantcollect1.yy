@@ -40,8 +40,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Giant Collects",
+    "path": "folders/Sprites/Gameplay/Collectables/Giant Collects.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

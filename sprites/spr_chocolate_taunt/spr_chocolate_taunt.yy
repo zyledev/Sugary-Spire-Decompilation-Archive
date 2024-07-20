@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Chocolate",
+    "path": "folders/Sprites/Gameplay/Collectables/Confecti/Chocolate.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -34,8 +34,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Small Collects",
+    "path": "folders/Sprites/Gameplay/Collectables/Small Collects.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

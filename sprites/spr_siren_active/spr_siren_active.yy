@@ -34,8 +34,8 @@
   "nineSlice": null,
   "origin": 1,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Siren",
+    "path": "folders/Sprites/Gameplay/Escape/Siren.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

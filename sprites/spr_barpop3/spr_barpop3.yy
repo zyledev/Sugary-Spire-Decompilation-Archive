@@ -48,8 +48,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bar Pop",
+    "path": "folders/Sprites/UI Related/TV/Combo Meter/Bar Pop.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

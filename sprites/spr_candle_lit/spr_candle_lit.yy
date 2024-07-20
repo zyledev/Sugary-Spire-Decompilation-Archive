@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Candle",
+    "path": "folders/Sprites/Level Specific/Cottontown/Assets/Candle.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

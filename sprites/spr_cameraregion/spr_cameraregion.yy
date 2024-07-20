@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Camera Related",
+    "path": "folders/Sprites/UI Related/Camera/Camera Related.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

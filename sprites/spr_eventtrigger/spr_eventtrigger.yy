@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Triggers",
+    "path": "folders/Sprites/Misc./Triggers.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

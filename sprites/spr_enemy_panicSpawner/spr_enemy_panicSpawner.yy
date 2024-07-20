@@ -44,8 +44,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Baddie Spawner",
+    "path": "folders/Sprites/Gameplay/Obstacles/Baddie Spawner.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

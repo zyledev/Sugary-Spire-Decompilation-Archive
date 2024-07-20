@@ -48,8 +48,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Flingfrog",
+    "path": "folders/Sprites/Gameplay/Level Specific/Molasses/Flingfrog.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

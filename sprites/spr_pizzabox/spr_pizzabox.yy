@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Room Transitions",
+    "path": "folders/Sprites/Gameplay/Room Transitions.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -34,8 +34,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Gumbob",
+    "path": "folders/Sprites/Player/Gumbob.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

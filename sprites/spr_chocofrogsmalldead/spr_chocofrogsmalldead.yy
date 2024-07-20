@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Dead",
+    "path": "folders/Sprites/Gameplay/Destructibles/Chocofrog/Dead.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

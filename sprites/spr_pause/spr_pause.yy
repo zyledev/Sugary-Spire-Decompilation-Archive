@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Pause Menu",
+    "path": "folders/Sprites/UI Related/Pause Menu.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -36,8 +36,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Gumball Machine",
+    "path": "folders/Sprites/Unused But Referenced/Baddies/Gumball Machine.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

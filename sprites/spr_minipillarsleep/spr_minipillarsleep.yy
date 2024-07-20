@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Pillar Blocks",
+    "path": "folders/Sprites/Gameplay/Obstacles/Pillar Blocks.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

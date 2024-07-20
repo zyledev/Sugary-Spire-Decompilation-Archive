@@ -40,8 +40,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Big Collects",
+    "path": "folders/Sprites/Gameplay/Collectables/Big Collects.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

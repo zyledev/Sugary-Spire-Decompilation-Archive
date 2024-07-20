@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Caramel",
+    "path": "folders/Sprites/Gameplay/Level Specific/Molasses/Caramel.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

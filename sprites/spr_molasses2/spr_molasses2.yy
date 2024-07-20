@@ -48,8 +48,8 @@
   },
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Molasses",
+    "path": "folders/Sprites/Gameplay/Level Specific/Molasses/Molasses.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

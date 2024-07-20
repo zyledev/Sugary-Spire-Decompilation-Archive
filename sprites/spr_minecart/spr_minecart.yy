@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Minecart",
+    "path": "folders/Sprites/Gameplay/Level Specific/Mines/Minecart.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

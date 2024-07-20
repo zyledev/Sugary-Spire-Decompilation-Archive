@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Scooter Cutscene",
+    "path": "folders/Sprites/Room Specific/Scooter Cutscene.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

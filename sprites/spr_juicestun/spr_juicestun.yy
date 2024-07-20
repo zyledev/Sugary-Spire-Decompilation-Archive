@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Googly Juice",
+    "path": "folders/Sprites/Baddies/Googly Juice.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

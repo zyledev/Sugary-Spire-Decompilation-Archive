@@ -34,8 +34,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Rank Room",
+    "path": "folders/Sprites/Room Specific/Rank Room.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

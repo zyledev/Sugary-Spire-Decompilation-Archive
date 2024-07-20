@@ -27,8 +27,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Cardboard",
+    "path": "folders/Sprites/Gameplay/Gummy Harry/Cardboard.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

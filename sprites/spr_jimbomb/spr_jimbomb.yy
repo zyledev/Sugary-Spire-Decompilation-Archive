@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Applejim",
+    "path": "folders/Sprites/Unused/Object-Specific/Applejim.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
