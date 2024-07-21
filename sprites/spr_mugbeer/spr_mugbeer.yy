@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Unused",
-    "path": "folders/Scripts/Unused.yy",
+    "path": "folders/Sprites/Unused.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
